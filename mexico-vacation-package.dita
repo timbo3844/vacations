@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="mexico-vacation">
+  <title>Mexico Vacation Package</title>
+  <body>
+    <section>
+      <title>Economy Package</title>
+      <p>Includes round-trip airfare, 3-star hotel in Cancun, and access to public beaches. Local street food options available.</p>
+    </section>
+    <section>
+      <title>Mid-range Package</title>
+      <p>Includes round-trip airfare, 4-star all-inclusive resort, a guided tour of Chichen Itza, and dining at mid-range Mexican restaurants.</p>
+    </section>
+    <section>
+      <title>Luxury Package</title>
+      <p>First-class airfare, 5-star beachfront resort, private yacht tours, exclusive spa treatments, and fine dining in gourmet restaurants.</p>
+    </section>
+  </body>
+</topic>

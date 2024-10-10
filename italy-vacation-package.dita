@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="italy-vacation">
+  <title>Italy Vacation Package</title>
+  <body>
+    <section>
+      <title>Economy Package</title>
+      <p>Includes round-trip airfare, 3-star accommodation in Rome, and a guided tour of the Colosseum. Budget-friendly dining options and free museum entry on select days.</p>
+    </section>
+    <section>
+      <title>Mid-range Package</title>
+      <p>Includes round-trip airfare, 4-star hotel in Florence, tickets to the Uffizi Gallery, and a guided wine tour in Tuscany. Dining at family-run trattorias.</p>
+    </section>
+    <section>
+      <title>Luxury Package</title>
+      <p>First-class airfare, 5-star villa stay in the Amalfi Coast, private tours of historical landmarks, and fine dining experiences across Italy.</p>
+    </section>
+  </body>
+</topic>

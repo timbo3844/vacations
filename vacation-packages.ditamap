@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Vacation Packages</title>
+  <topicref href="paris-vacation-package.dita" />
+  <topicref href="hawaii-vacation-package.dita" />
+  <topicref href="thailand-vacation-package.dita" />
+  <topicref href="italy-vacation-package.dita" />
+  <topicref href="mexico-vacation-package.dita" />
+</map>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="thailand-vacation">
+  <title>Thailand Vacation Package</title>
+  <body>
+    <section>
+      <title>Economy Package</title>
+      <p>Includes round-trip airfare, budget accommodation in Bangkok, and a city tour covering major temples and markets. Street food options available.</p>
+    </section>
+    <section>
+      <title>Mid-range Package</title>
+      <p>Includes round-trip airfare, 4-star hotel in Bangkok, a guided tour of Ayutthaya, and a Thai cooking class. Includes dining at popular mid-range restaurants.</p>
+    </section>
+    <section>
+      <title>Luxury Package</title>
+      <p>First-class airfare, 5-star resort stay in Phuket, private yacht tour to Phi Phi Islands, spa treatments, and gourmet Thai dining.</p>
+    </section>
+  </body>
+</topic>

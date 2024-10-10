@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="paris-vacation">
+  <title>Paris Vacation Package</title>
+  <body>
+    <section>
+      <title>Economy Package</title>
+      <p>Includes round-trip airfare, 3-star hotel accommodation, and a guided walking tour of Montmartre. Budget-friendly dining options available.</p>
+    </section>
+    <section>
+      <title>Mid-range Package</title>
+      <p>Includes round-trip airfare, 4-star hotel stay in central Paris, tickets to the Louvre, and a river cruise on the Seine. Dining at mid-range restaurants.</p>
+    </section>
+    <section>
+      <title>Luxury Package</title>
+      <p>First-class airfare, 5-star luxury hotel stay, private city tours, gourmet dining experiences, and VIP tickets to major attractions like the Eiffel Tower.</p>
+    </section>
+  </body>
+</topic>
