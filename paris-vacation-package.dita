@@ -3,17 +3,20 @@
 <topic id="paris-vacation">
   <title>Paris Vacation Package</title>
   <body>
-    <section>
+    <section product="economy">
       <title>Economy Package</title>
-      <p>Includes round-trip airfare, 3-star hotel accommodation, and a guided walking tour of Montmartre. Budget-friendly dining options available.</p>
+      <p>Includes round-trip airfare, 3-star hotel accommodation, and a guided walking tour of
+        Montmartre. Budget-friendly dining options available.</p>
     </section>
-    <section>
+    <section product="mid">
       <title>Mid-range Package</title>
-      <p>Includes round-trip airfare, 4-star hotel stay in central Paris, tickets to the Louvre, and a river cruise on the Seine. Dining at mid-range restaurants.</p>
+      <p>Includes round-trip airfare, 4-star hotel stay in central Paris, tickets to the Louvre, and
+        a river cruise on the Seine. Dining at mid-range restaurants.</p>
     </section>
-    <section>
+    <section product="luxury">
       <title>Luxury Package</title>
-      <p>First-class airfare, 5-star luxury hotel stay, private city tours, gourmet dining experiences, and VIP tickets to major attractions like the Eiffel Tower.</p>
+      <p>First-class airfare, 5-star luxury hotel stay, private city tours, gourmet dining
+        experiences, and VIP tickets to major attractions like the Eiffel Tower.</p>
     </section>
   </body>
 </topic>

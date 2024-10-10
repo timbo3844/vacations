@@ -3,17 +3,20 @@
 <topic id="thailand-vacation">
   <title>Thailand Vacation Package</title>
   <body>
-    <section>
+    <section product="economy">
       <title>Economy Package</title>
-      <p>Includes round-trip airfare, budget accommodation in Bangkok, and a city tour covering major temples and markets. Street food options available.</p>
+      <p>Includes round-trip airfare, budget accommodation in Bangkok, and a city tour covering
+        major temples and markets. Street food options available.</p>
     </section>
-    <section>
+    <section product="mid">
       <title>Mid-range Package</title>
-      <p>Includes round-trip airfare, 4-star hotel in Bangkok, a guided tour of Ayutthaya, and a Thai cooking class. Includes dining at popular mid-range restaurants.</p>
+      <p>Includes round-trip airfare, 4-star hotel in Bangkok, a guided tour of Ayutthaya, and a
+        Thai cooking class. Includes dining at popular mid-range restaurants.</p>
     </section>
-    <section>
+    <section product="luxury">
       <title>Luxury Package</title>
-      <p>First-class airfare, 5-star resort stay in Phuket, private yacht tour to Phi Phi Islands, spa treatments, and gourmet Thai dining.</p>
+      <p>First-class airfare, 5-star resort stay in Phuket, private yacht tour to Phi Phi Islands,
+        spa treatments, and gourmet Thai dining.</p>
     </section>
   </body>
 </topic>

@@ -3,17 +3,20 @@
 <topic id="hawaii-vacation">
   <title>Hawaii Vacation Package</title>
   <body>
-    <section>
+    <section product="Economy">
       <title>Economy Package</title>
-      <p>Includes round-trip airfare, 3-star beachfront hotel, and access to public beaches and hiking trails. Affordable dining options included.</p>
+      <p>Includes round-trip airfare, 3-star beachfront hotel, and access to public beaches and
+        hiking trails. Affordable dining options included.</p>
     </section>
-    <section>
+    <section product="Mid">
       <title>Mid-range Package</title>
-      <p>Includes round-trip airfare, 4-star resort stay with pool and spa access, a guided snorkeling tour, and tickets to a traditional Hawaiian luau.</p>
+      <p>Includes round-trip airfare, 4-star resort stay with pool and spa access, a guided
+        snorkeling tour, and tickets to a traditional Hawaiian luau.</p>
     </section>
-    <section>
+    <section product="luxury">
       <title>Luxury Package</title>
-      <p>First-class airfare, 5-star luxury resort, private helicopter tours, personal beach cabana service, and fine dining experiences.</p>
+      <p>First-class airfare, 5-star luxury resort, private helicopter tours, personal beach cabana
+        service, and fine dining experiences.</p>
     </section>
   </body>
 </topic>

@@ -3,17 +3,20 @@
 <topic id="mexico-vacation">
   <title>Mexico Vacation Package</title>
   <body>
-    <section>
+    <section product="economy">
       <title>Economy Package</title>
-      <p>Includes round-trip airfare, 3-star hotel in Cancun, and access to public beaches. Local street food options available.</p>
+      <p>Includes round-trip airfare, 3-star hotel in Cancun, and access to public beaches. Local
+        street food options available.</p>
     </section>
-    <section>
+    <section product="mid">
       <title>Mid-range Package</title>
-      <p>Includes round-trip airfare, 4-star all-inclusive resort, a guided tour of Chichen Itza, and dining at mid-range Mexican restaurants.</p>
+      <p>Includes round-trip airfare, 4-star all-inclusive resort, a guided tour of Chichen Itza,
+        and dining at mid-range Mexican restaurants.</p>
     </section>
-    <section>
+    <section product="luxury">
       <title>Luxury Package</title>
-      <p>First-class airfare, 5-star beachfront resort, private yacht tours, exclusive spa treatments, and fine dining in gourmet restaurants.</p>
+      <p>First-class airfare, 5-star beachfront resort, private yacht tours, exclusive spa
+        treatments, and fine dining in gourmet restaurants.</p>
     </section>
   </body>
 </topic>
