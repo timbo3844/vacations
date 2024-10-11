@@ -11,6 +11,7 @@
         <context idref="losSGJNoGBNPmWi"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
+            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
