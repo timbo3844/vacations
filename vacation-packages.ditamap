@@ -7,5 +7,5 @@
   <topicref href="thailand-vacation-package.dita" />
   <topicref href="italy-vacation-package.dita" />
   <topicref href="mexico-vacation-package.dita" />
-  <topicref href="christiansburg-vacation-package.md" />
+  <topicref href="christiansburg-vacation-package.md" format="markdown"/>
 </map>
