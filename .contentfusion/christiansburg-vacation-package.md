@@ -1,6 +1,6 @@
 # Christiansburg Vacation Package
 
-## Economy Paclage
+## Economy Package
 
 Includes a lovely ride in the BT Two -Ton Trolley
 
