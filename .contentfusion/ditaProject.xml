@@ -8,6 +8,7 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="d-Luxury_Website-1728576620103" name="Luxury Website">
+        <?description {"content":"My luxury website"}?>
         <context idref="losSGJNoGBNPmWi"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
