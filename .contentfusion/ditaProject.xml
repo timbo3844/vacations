@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="IZHtfPWTccEvHlh" name="luxury">
+        <input href="../beyonce.ditaval"/>
+        <profile>
+            <ditaval href="../beyonce.ditaval"/>
+        </profile>
+    </context>
     <context id="losSGJNoGBNPmWi" name="beyonce">
         <input href="../vacation-packages.ditamap"/>
         <profile>
@@ -8,11 +14,10 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="d-Luxury_Website-1728576620103" name="Luxury Website">
-        <?description {"content":"My luxury website"}?>
         <context idref="losSGJNoGBNPmWi"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
+            <param name="webhelp.publishing.template" href="cf://templates/Magnesium"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
